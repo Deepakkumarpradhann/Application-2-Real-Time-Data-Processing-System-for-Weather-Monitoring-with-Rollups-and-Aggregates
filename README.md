@@ -82,7 +82,8 @@ City: Hyderabad, Temp: 27.230000000000018°C, Feels Like: 29.640000000000043°C,
 
 ## Visualizations
 - Daily weather summaries and trends can be visualized using tools like `matplotlib`.
-- Example visualizations include line charts for temperature trends and bar charts for dominant weather conditions.
+- Example visualizations include line charts for temperature trends and bar charts for dominant weather conditi
+
 
 ## Testing
 - **Unit Tests**: Validate temperature conversion and data processing.
